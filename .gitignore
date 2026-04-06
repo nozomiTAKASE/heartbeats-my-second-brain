@@ -1,0 +1,9 @@
+.DS_Store
+
+# Obsidian: ウィンドウ状態だけ除外（差分が毎回出やすい）
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspaces.json
+
+# ゴミ箱を追跡しない場合（追跡したいならこのブロックを消す）
+**/.trash/
